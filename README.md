@@ -5,7 +5,7 @@ Activation function = sigmoid function
 
 Standard feedforward + backpropagation (sgd)
 
-I added learning rate, momentum and bias. All weights are initialised randomly.7
+I added learning rate, momentum and bias. All weights are initialised randomly.
 
 Problem being solved is simple XOR.
 
